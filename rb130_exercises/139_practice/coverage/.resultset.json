@@ -1,0 +1,37 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/Users/noir/Desktop/Launch School/rb_130/rb130_exercises/139_practice/perfect_numbers.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          4,
+          null,
+          3,
+          50,
+          null,
+          null,
+          3,
+          3,
+          1,
+          2,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1656539999
+  }
+}
